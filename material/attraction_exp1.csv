@@ -1,0 +1,385 @@
+﻿ItemNo,Clause,Distractor,Grammaticality,Condition,Question,Answer,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,w11,w12,w13
+1,appos,plural,gram,e.appos.plural.gram,Was the waitress unhappy about all the noise?,yes,"The_waitress,",who,sat,near,"the_girls,",unsurprisingly,was,unhappy,about,all,the_noise.,,
+1,appos,singular,gram,e.appos.singular.gram,Was the waitress unhappy about all the noise?,yes,"The_waitress,",who,sat,near,"the_girl,",unsurprisingly,was,unhappy,about,all,the_noise.,,
+1,appos,plural,ungram,e.appos.plural.ungram,Was the waitress unhappy about all the noise?,yes,"The_waitress,",who,sat,near,"the_girls,",unsurprisingly,were,unhappy,about,all,the_noise.,,
+1,appos,singular,ungram,e.appos.singular.ungram,Was the waitress unhappy about all the noise?,yes,"The_waitress,",who,sat,near,"the_girl,",unsurprisingly,were,unhappy,about,all,the_noise.,,
+1,restr,plural,gram,e.restr.plural.gram,Was the waitress unhappy about all the noise?,yes,The_waitress,who,sat,near,the_girls,unsurprisingly,was,unhappy,about,all,the_noise.,,
+1,restr,singular,gram,e.restr.singular.gram,Was the waitress unhappy about all the noise?,yes,The_waitress,who,sat,near,the_girl,unsurprisingly,was,unhappy,about,all,the_noise.,,
+1,restr,plural,ungram,e.restr.plural.ungram,Was the waitress unhappy about all the noise?,yes,The_waitress,who,sat,near,the_girls,unsurprisingly,were,unhappy,about,all,the_noise.,,
+1,restr,singular,ungram,e.restr.singular.ungram,Was the waitress unhappy about all the noise?,yes,The_waitress,who,sat,near,the_girl,unsurprisingly,were,unhappy,about,all,the_noise.,,
+2,appos,plural,gram,e.appos.plural.gram,Was the dog covered in leaves?,no,"The_dog,",which,dug,in,"the_holes,",unfortunately,was,covered,in,mud,all,over.,
+2,appos,singular,gram,e.appos.singular.gram,Was the dog covered in leaves?,no,"The_dog,",which,dug,in,"the_hole,",unfortunately,was,covered,in,mud,all,over.,
+2,appos,plural,ungram,e.appos.plural.ungram,Was the dog covered in leaves?,no,"The_dog,",which,dug,in,"the_holes,",unfortunately,were,covered,in,mud,all,over.,
+2,appos,singular,ungram,e.appos.singular.ungram,Was the dog covered in leaves?,no,"The_dog,",which,dug,in,"the_hole,",unfortunately,were,covered,in,mud,all,over.,
+2,restr,plural,gram,e.restr.plural.gram,Was the dog covered in leaves?,no,The_dog,which,dug,in,the_holes,unfortunately,was,covered,in,mud,all,over.,
+2,restr,singular,gram,e.restr.singular.gram,Was the dog covered in leaves?,no,The_dog,which,dug,in,the_hole,unfortunately,was,covered,in,mud,all,over.,
+2,restr,plural,ungram,e.restr.plural.ungram,Was the dog covered in leaves?,no,The_dog,which,dug,in,the_holes,unfortunately,were,covered,in,mud,all,over.,
+2,restr,singular,ungram,e.restr.singular.ungram,Was the dog covered in leaves?,no,The_dog,which,dug,in,the_hole,unfortunately,were,covered,in,mud,all,over.,
+3,appos,plural,gram,e.appos.plural.gram,Was the boy more competitive than ever before?,yes,"The_boy,",who,played,in,"the_games,",apparently,was,more,competitive,than,ever,before.,
+3,appos,singular,gram,e.appos.singular.gram,Was the boy more competitive than ever before?,yes,"The_boy,",who,played,in,"the_game,",apparently,was,more,competitive,than,ever,before.,
+3,appos,plural,ungram,e.appos.plural.ungram,Was the boy more competitive than ever before?,yes,"The_boy,",who,played,in,"the_games,",apparently,were,more,competitive,than,ever,before.,
+3,appos,singular,ungram,e.appos.singular.ungram,Was the boy more competitive than ever before?,yes,"The_boy,",who,played,in,"the_game,",apparently,were,more,competitive,than,ever,before.,
+3,restr,plural,gram,e.restr.plural.gram,Was the boy more competitive than ever before?,yes,The_boy,who,played,in,the_games,apparently,was,more,competitive,than,ever,before.,
+3,restr,singular,gram,e.restr.singular.gram,Was the boy more competitive than ever before?,yes,The_boy,who,played,in,the_game,apparently,was,more,competitive,than,ever,before.,
+3,restr,plural,ungram,e.restr.plural.ungram,Was the boy more competitive than ever before?,yes,The_boy,who,played,in,the_games,apparently,were,more,competitive,than,ever,before.,
+3,restr,singular,ungram,e.restr.singular.ungram,Was the boy more competitive than ever before?,yes,The_boy,who,played,in,the_game,apparently,were,more,competitive,than,ever,before.,
+4,appos,plural,gram,e.appos.plural.gram,Was the mom excited by the bickering in the car?,no,"The_mom,",who,drove,with,"the_kids,",unsurprisingly,was,tired,of,all,the_bickering,in,the_car.
+4,appos,singular,gram,e.appos.singular.gram,Was the mom excited by the bickering in the car?,no,"The_mom,",who,drove,with,"the_kid,",unsurprisingly,was,tired,of,all,the_bickering,in,the_car.
+4,appos,plural,ungram,e.appos.plural.ungram,Was the mom excited by the bickering in the car?,no,"The_mom,",who,drove,with,"the_kids,",unsurprisingly,were,tired,of,all,the_bickering,in,the_car.
+4,appos,singular,ungram,e.appos.singular.ungram,Was the mom excited by the bickering in the car?,no,"The_mom,",who,drove,with,"the_kid,",unsurprisingly,were,tired,of,all,the_bickering,in,the_car.
+4,restr,plural,gram,e.restr.plural.gram,Was the mom excited by the bickering in the car?,no,The_mom,who,drove,with,the_kids,unsurprisingly,was,tired,of,all,the_bickering,in,the_car.
+4,restr,singular,gram,e.restr.singular.gram,Was the mom excited by the bickering in the car?,no,The_mom,who,drove,with,the_kid,unsurprisingly,was,tired,of,all,the_bickering,in,the_car.
+4,restr,plural,ungram,e.restr.plural.ungram,Was the mom excited by the bickering in the car?,no,The_mom,who,drove,with,the_kids,unsurprisingly,were,tired,of,all,the_bickering,in,the_car.
+4,restr,singular,ungram,e.restr.singular.ungram,Was the mom excited by the bickering in the car?,no,The_mom,who,drove,with,the_kid,unsurprisingly,were,tired,of,all,the_bickering,in,the_car.
+5,appos,plural,gram,e.appos.plural.gram,Was the kid in trouble?,yes,"The_kid,",who,hid,behind,"the_toys,",definitely,was,in,a,lot,of,trouble.,
+5,appos,singular,gram,e.appos.singular.gram,Was the kid in trouble?,yes,"The_kid,",who,hid,behind,"the_toy,",definitely,was,in,a,lot,of,trouble.,
+5,appos,plural,ungram,e.appos.plural.ungram,Was the kid in trouble?,yes,"The_kid,",who,hid,behind,"the_toys,",definitely,were,in,a,lot,of,trouble.,
+5,appos,singular,ungram,e.appos.singular.ungram,Was the kid in trouble?,yes,"The_kid,",who,hid,behind,"the_toy,",definitely,were,in,a,lot,of,trouble.,
+5,restr,plural,gram,e.restr.plural.gram,Was the kid in trouble?,yes,The_kid,who,hid,behind,the_toys,definitely,was,in,a,lot,of,trouble.,
+5,restr,singular,gram,e.restr.singular.gram,Was the kid in trouble?,yes,The_kid,who,hid,behind,the_toy,definitely,was,in,a,lot,of,trouble.,
+5,restr,plural,ungram,e.restr.plural.ungram,Was the kid in trouble?,yes,The_kid,who,hid,behind,the_toys,definitely,were,in,a,lot,of,trouble.,
+5,restr,singular,ungram,e.restr.singular.ungram,Was the kid in trouble?,yes,The_kid,who,hid,behind,the_toy,definitely,were,in,a,lot,of,trouble.,
+6,appos,plural,gram,e.appos.plural.gram,Was it the firefighter who was mentioned in the newspaper?,no,"The_policeman,",who,patrolled,through,"the_neighborhoods,",evidently,was,mentioned,in,the,newspaper.,,
+6,appos,singular,gram,e.appos.singular.gram,Was it the firefighter who was mentioned in the newspaper?,no,"The_policeman,",who,patrolled,through,"the_neighborhood,",evidently,was,mentioned,in,the,newspaper.,,
+6,appos,plural,ungram,e.appos.plural.ungram,Was it the firefighter who was mentioned in the newspaper?,no,"The_policeman,",who,patrolled,through,"the_neighborhoods,",evidently,were,mentioned,in,the,newspaper.,,
+6,appos,singular,ungram,e.appos.singular.ungram,Was it the firefighter who was mentioned in the newspaper?,no,"The_policeman,",who,patrolled,through,"the_neighborhood,",evidently,were,mentioned,in,the,newspaper.,,
+6,restr,plural,gram,e.restr.plural.gram,Was it the firefighter who was mentioned in the newspaper?,no,The_policeman,who,patrolled,through,the_neighborhoods,evidently,was,mentioned,in,the,newspaper.,,
+6,restr,singular,gram,e.restr.singular.gram,Was it the firefighter who was mentioned in the newspaper?,no,The_policeman,who,patrolled,through,the_neighborhood,evidently,was,mentioned,in,the,newspaper.,,
+6,restr,plural,ungram,e.restr.plural.ungram,Was it the firefighter who was mentioned in the newspaper?,no,The_policeman,who,patrolled,through,the_neighborhoods,evidently,were,mentioned,in,the,newspaper.,,
+6,restr,singular,ungram,e.restr.singular.ungram,Was it the firefighter who was mentioned in the newspaper?,no,The_policeman,who,patrolled,through,the_neighborhood,evidently,were,mentioned,in,the,newspaper.,,
+7,appos,plural,gram,e.appos.plural.gram,Was the goat seen on the side of the road?,yes,"The_goat,",which,ate,from,"the_cans,",evidently,was,seen,on,the,side,of,the_road.
+7,appos,singular,gram,e.appos.singular.gram,Was the goat seen on the side of the road?,yes,"The_goat,",which,ate,from,"the_can,",evidently,was,seen,on,the,side,of,the_road.
+7,appos,plural,ungram,e.appos.plural.ungram,Was the goat seen on the side of the road?,yes,"The_goat,",which,ate,from,"the_cans,",evidently,were,seen,on,the,side,of,the_road.
+7,appos,singular,ungram,e.appos.singular.ungram,Was the goat seen on the side of the road?,yes,"The_goat,",which,ate,from,"the_can,",evidently,were,seen,on,the,side,of,the_road.
+7,restr,plural,gram,e.restr.plural.gram,Was the goat seen on the side of the road?,yes,The_goat,which,ate,from,the_cans,evidently,was,seen,on,the,side,of,the_road.
+7,restr,singular,gram,e.restr.singular.gram,Was the goat seen on the side of the road?,yes,The_goat,which,ate,from,the_can,evidently,was,seen,on,the,side,of,the_road.
+7,restr,plural,ungram,e.restr.plural.ungram,Was the goat seen on the side of the road?,yes,The_goat,which,ate,from,the_cans,evidently,were,seen,on,the,side,of,the_road.
+7,restr,singular,ungram,e.restr.singular.ungram,Was the goat seen on the side of the road?,yes,The_goat,which,ate,from,the_can,evidently,were,seen,on,the,side,of,the_road.
+8,appos,plural,gram,e.appos.plural.gram,Was the scientist unafraid of the consequences?,no,"The_scientist,",who,prepared,for,"the_experiments,",suddenly,was,scared,about,all,the_consequences.,,
+8,appos,singular,gram,e.appos.singular.gram,Was the scientist unafraid of the consequences?,no,"The_scientist,",who,prepared,for,"the_experiment,",suddenly,was,scared,about,all,the_consequences.,,
+8,appos,plural,ungram,e.appos.plural.ungram,Was the scientist unafraid of the consequences?,no,"The_scientist,",who,prepared,for,"the_experiments,",suddenly,were,scared,about,all,the_consequences.,,
+8,appos,singular,ungram,e.appos.singular.ungram,Was the scientist unafraid of the consequences?,no,"The_scientist,",who,prepared,for,"the_experiment,",suddenly,were,scared,about,all,the_consequences.,,
+8,restr,plural,gram,e.restr.plural.gram,Was the scientist unafraid of the consequences?,no,The_scientist,who,prepared,for,the_experiments,suddenly,was,scared,about,all,the_consequences.,,
+8,restr,singular,gram,e.restr.singular.gram,Was the scientist unafraid of the consequences?,no,The_scientist,who,prepared,for,the_experiment,suddenly,was,scared,about,all,the_consequences.,,
+8,restr,plural,ungram,e.restr.plural.ungram,Was the scientist unafraid of the consequences?,no,The_scientist,who,prepared,for,the_experiments,suddenly,were,scared,about,all,the_consequences.,,
+8,restr,singular,ungram,e.restr.singular.ungram,Was the scientist unafraid of the consequences?,no,The_scientist,who,prepared,for,the_experiment,suddenly,were,scared,about,all,the_consequences.,,
+9,appos,plural,gram,e.appos.plural.gram,Was it likely that the student was worried about her grade?,yes,"The_student,",who,wrote,to,"the_professors,",likely,was,concerned,about,her,low,grade.,
+9,appos,singular,gram,e.appos.singular.gram,Was it likely that the student was worried about her grade?,yes,"The_student,",who,wrote,to,"the_professor,",likely,was,concerned,about,her,low,grade.,
+9,appos,plural,ungram,e.appos.plural.ungram,Was it likely that the student was worried about her grade?,yes,"The_student,",who,wrote,to,"the_professors,",likely,were,concerned,about,her,low,grade.,
+9,appos,singular,ungram,e.appos.singular.ungram,Was it likely that the student was worried about her grade?,yes,"The_student,",who,wrote,to,"the_professor,",likely,were,concerned,about,her,low,grade.,
+9,restr,plural,gram,e.restr.plural.gram,Was it likely that the student was worried about her grade?,yes,The_student,who,wrote,to,the_professors,likely,was,concerned,about,her,low,grade.,
+9,restr,singular,gram,e.restr.singular.gram,Was it likely that the student was worried about her grade?,yes,The_student,who,wrote,to,the_professor,likely,was,concerned,about,her,low,grade.,
+9,restr,plural,ungram,e.restr.plural.ungram,Was it likely that the student was worried about her grade?,yes,The_student,who,wrote,to,the_professors,likely,were,concerned,about,her,low,grade.,
+9,restr,singular,ungram,e.restr.singular.ungram,Was it likely that the student was worried about her grade?,yes,The_student,who,wrote,to,the_professor,likely,were,concerned,about,her,low,grade.,
+10,appos,plural,gram,e.appos.plural.gram,Was it the journalist who investigated something?,no,"The_journalist,",who,read,about,"the_reports,",apparently,was,investigated,for,fraudulent,investigative,journalism.,
+10,appos,singular,gram,e.appos.singular.gram,Was it the journalist who investigated something?,no,"The_journalist,",who,read,about,"the_report,",apparently,was,investigated,for,fraudulent,investigative,journalism.,
+10,appos,plural,ungram,e.appos.plural.ungram,Was it the journalist who investigated something?,no,"The_journalist,",who,read,about,"the_reports,",apparently,were,investigated,for,fraudulent,investigative,journalism.,
+10,appos,singular,ungram,e.appos.singular.ungram,Was it the journalist who investigated something?,no,"The_journalist,",who,read,about,"the_report,",apparently,were,investigated,for,fraudulent,investigative,journalism.,
+10,restr,plural,gram,e.restr.plural.gram,Was it the journalist who investigated something?,no,The_journalist,who,read,about,the_reports,apparently,was,investigated,for,fraudulent,investigative,journalism.,
+10,restr,singular,gram,e.restr.singular.gram,Was it the journalist who investigated something?,no,The_journalist,who,read,about,the_report,apparently,was,investigated,for,fraudulent,investigative,journalism.,
+10,restr,plural,ungram,e.restr.plural.ungram,Was it the journalist who investigated something?,no,The_journalist,who,read,about,the_reports,apparently,were,investigated,for,fraudulent,investigative,journalism.,
+10,restr,singular,ungram,e.restr.singular.ungram,Was it the journalist who investigated something?,no,The_journalist,who,read,about,the_report,apparently,were,investigated,for,fraudulent,investigative,journalism.,
+11,appos,plural,gram,e.appos.plural.gram,Was the boy excited about being bitten?,no,"The_boy,",who,walked,toward,"the_dogs,",probably,was,scared,about,being,bitten.,,
+11,appos,singular,gram,e.appos.singular.gram,Was the boy excited about being bitten?,no,"The_boy,",who,walked,toward,"the_dog,",probably,was,scared,about,being,bitten.,,
+11,appos,plural,ungram,e.appos.plural.ungram,Was the boy excited about being bitten?,no,"The_boy,",who,walked,toward,"the_dogs,",probably,were,scared,about,being,bitten.,,
+11,appos,singular,ungram,e.appos.singular.ungram,Was the boy excited about being bitten?,no,"The_boy,",who,walked,toward,"the_dog,",probably,were,scared,about,being,bitten.,,
+11,restr,plural,gram,e.restr.plural.gram,Was the boy excited about being bitten?,no,The_boy,who,walked,toward,the_dogs,probably,was,scared,about,being,bitten.,,
+11,restr,singular,gram,e.restr.singular.gram,Was the boy excited about being bitten?,no,The_boy,who,walked,toward,the_dog,probably,was,scared,about,being,bitten.,,
+11,restr,plural,ungram,e.restr.plural.ungram,Was the boy excited about being bitten?,no,The_boy,who,walked,toward,the_dogs,probably,were,scared,about,being,bitten.,,
+11,restr,singular,ungram,e.restr.singular.ungram,Was the boy excited about being bitten?,no,The_boy,who,walked,toward,the_dog,probably,were,scared,about,being,bitten.,,
+12,appos,plural,gram,e.appos.plural.gram,Was the woman happy about the road trip?,yes,"The_woman,",who,walked,by,"the_dogs,",clearly,was,happy,about,the,cross-country,road_trip.,
+12,appos,singular,gram,e.appos.singular.gram,Was the woman happy about the road trip?,yes,"The_woman,",who,walked,by,"the_dog,",clearly,was,happy,about,the,cross-country,road_trip.,
+12,appos,plural,ungram,e.appos.plural.ungram,Was the woman happy about the road trip?,yes,"The_woman,",who,walked,by,"the_dogs,",clearly,were,happy,about,the,cross-country,road_trip.,
+12,appos,singular,ungram,e.appos.singular.ungram,Was the woman happy about the road trip?,yes,"The_woman,",who,walked,by,"the_dog,",clearly,were,happy,about,the,cross-country,road_trip.,
+12,restr,plural,gram,e.restr.plural.gram,Was the woman happy about the road trip?,yes,The_woman,who,walked,by,the_dogs,clearly,was,happy,about,the,cross-country,road_trip.,
+12,restr,singular,gram,e.restr.singular.gram,Was the woman happy about the road trip?,yes,The_woman,who,walked,by,the_dog,clearly,was,happy,about,the,cross-country,road_trip.,
+12,restr,plural,ungram,e.restr.plural.ungram,Was the woman happy about the road trip?,yes,The_woman,who,walked,by,the_dogs,clearly,were,happy,about,the,cross-country,road_trip.,
+12,restr,singular,ungram,e.restr.singular.ungram,Was the woman happy about the road trip?,yes,The_woman,who,walked,by,the_dog,clearly,were,happy,about,the,cross-country,road_trip.,
+13,appos,plural,gram,e.appos.plural.gram,Was the nurse excited about the good news?,yes,"The_nurse,",who,called,for,"the_doctors,",unsurprisingly,was,excited,about,the,good,news.,
+13,appos,singular,gram,e.appos.singular.gram,Was the nurse excited about the good news?,yes,"The_nurse,",who,called,for,"the_doctor,",unsurprisingly,was,excited,about,the,good,news.,
+13,appos,plural,ungram,e.appos.plural.ungram,Was the nurse excited about the good news?,yes,"The_nurse,",who,called,for,"the_doctors,",unsurprisingly,were,excited,about,the,good,news.,
+13,appos,singular,ungram,e.appos.singular.ungram,Was the nurse excited about the good news?,yes,"The_nurse,",who,called,for,"the_doctor,",unsurprisingly,were,excited,about,the,good,news.,
+13,restr,plural,gram,e.restr.plural.gram,Was the nurse excited about the good news?,yes,The_nurse,who,called,for,the_doctors,unsurprisingly,was,excited,about,the,good,news.,
+13,restr,singular,gram,e.restr.singular.gram,Was the nurse excited about the good news?,yes,The_nurse,who,called,for,the_doctor,unsurprisingly,was,excited,about,the,good,news.,
+13,restr,plural,ungram,e.restr.plural.ungram,Was the nurse excited about the good news?,yes,The_nurse,who,called,for,the_doctors,unsurprisingly,were,excited,about,the,good,news.,
+13,restr,singular,ungram,e.restr.singular.ungram,Was the nurse excited about the good news?,yes,The_nurse,who,called,for,the_doctor,unsurprisingly,were,excited,about,the,good,news.,
+14,appos,plural,gram,e.appos.plural.gram,Did the director intrigue the assistants?,no,"The_director,",who,called,for,"the_assistants,",suddenly,was,intrigued,by,the,secret,report.,
+14,appos,singular,gram,e.appos.singular.gram,Did the director intrigue the assistant?,no,"The_director,",who,called,for,"the_assistant,",suddenly,was,intrigued,by,the,secret,report.,
+14,appos,plural,ungram,e.appos.plural.ungram,Did the director intrigue the assistants?,no,"The_director,",who,called,for,"the_assistants,",suddenly,were,intrigued,by,the,secret,report.,
+14,appos,singular,ungram,e.appos.singular.ungram,Did the director intrigue the assistant?,no,"The_director,",who,called,for,"the_assistant,",suddenly,were,intrigued,by,the,secret,report.,
+14,restr,plural,gram,e.restr.plural.gram,Did the director intrigue the assistants?,no,The_director,who,called,for,the_assistants,suddenly,was,intrigued,by,the,secret,report.,
+14,restr,singular,gram,e.restr.singular.gram,Did the director intrigue the assistant?,no,The_director,who,called,for,the_assistant,suddenly,was,intrigued,by,the,secret,report.,
+14,restr,plural,ungram,e.restr.plural.ungram,Did the director intrigue the assistants?,no,The_director,who,called,for,the_assistants,suddenly,were,intrigued,by,the,secret,report.,
+14,restr,singular,ungram,e.restr.singular.ungram,Did the director intrigue the assistant?,no,The_director,who,called,for,the_assistant,suddenly,were,intrigued,by,the,secret,report.,
+15,appos,plural,gram,e.appos.plural.gram,Was the artist impressed with the view?,yes,"The_artist,",who,painted,by,"the_houses,",certainly,was,impressed,with,the,stunning,view.,
+15,appos,singular,gram,e.appos.singular.gram,Was the artist impressed with the view?,yes,"The_artist,",who,painted,by,"the_house,",certainly,was,impressed,with,the,stunning,view.,
+15,appos,plural,ungram,e.appos.plural.ungram,Was the artist impressed with the view?,yes,"The_artist,",who,painted,by,"the_houses,",certainly,were,impressed,with,the,stunning,view.,
+15,appos,singular,ungram,e.appos.singular.ungram,Was the artist impressed with the view?,yes,"The_artist,",who,painted,by,"the_house,",certainly,were,impressed,with,the,stunning,view.,
+15,restr,plural,gram,e.restr.plural.gram,Was the artist impressed with the view?,yes,The_artist,who,painted,by,the_houses,certainly,was,impressed,with,the,stunning,view.,
+15,restr,singular,gram,e.restr.singular.gram,Was the artist impressed with the view?,yes,The_artist,who,painted,by,the_house,certainly,was,impressed,with,the,stunning,view.,
+15,restr,plural,ungram,e.restr.plural.ungram,Was the artist impressed with the view?,yes,The_artist,who,painted,by,the_houses,certainly,were,impressed,with,the,stunning,view.,
+15,restr,singular,ungram,e.restr.singular.ungram,Was the artist impressed with the view?,yes,The_artist,who,painted,by,the_house,certainly,were,impressed,with,the,stunning,view.,
+16,appos,plural,gram,e.appos.plural.gram,Did the actors surprise the director?,no,"The_director,",who,called,for,"the_actors,",certainly,was,surprised,about,the,exciting,news.,
+16,appos,singular,gram,e.appos.singular.gram,Did the actor surprise the director?,no,"The_director,",who,called,for,"the_actor,",certainly,was,surprised,about,the,exciting,news.,
+16,appos,plural,ungram,e.appos.plural.ungram,Did the actors surprise the director?,no,"The_director,",who,called,for,"the_actors,",certainly,were,surprised,about,the,exciting,news.,
+16,appos,singular,ungram,e.appos.singular.ungram,Did the actor surprise the director?,no,"The_director,",who,called,for,"the_actor,",certainly,were,surprised,about,the,exciting,news.,
+16,restr,plural,gram,e.restr.plural.gram,Did the actors surprise the director?,no,The_director,who,called,for,the_actors,certainly,was,surprised,about,the,exciting,news.,
+16,restr,singular,gram,e.restr.singular.gram,Did the actor surprise the director?,no,The_director,who,called,for,the_actor,certainly,was,surprised,about,the,exciting,news.,
+16,restr,plural,ungram,e.restr.plural.ungram,Did the actors surprise the director?,no,The_director,who,called,for,the_actors,certainly,were,surprised,about,the,exciting,news.,
+16,restr,singular,ungram,e.restr.singular.ungram,Did the actor surprise the director?,no,The_director,who,called,for,the_actor,certainly,were,surprised,about,the,exciting,news.,
+17,appos,plural,gram,e.appos.plural.gram,Was the thief scared of getting caught red-handed?,yes,"The_thief,",who,stole,from,"the_stashes,",obviously,was,scared,of,being,caught,red-handed.,
+17,appos,singular,gram,e.appos.singular.gram,Was the thief scared of getting caught red-handed?,yes,"The_thief,",who,stole,from,"the_stash,",obviously,was,scared,of,being,caught,red-handed.,
+17,appos,plural,ungram,e.appos.plural.ungram,Was the thief scared of getting caught red-handed?,yes,"The_thief,",who,stole,from,"the_stashes,",obviously,were,scared,of,being,caught,red-handed.,
+17,appos,singular,ungram,e.appos.singular.ungram,Was the thief scared of getting caught red-handed?,yes,"The_thief,",who,stole,from,"the_stash,",obviously,were,scared,of,being,caught,red-handed.,
+17,restr,plural,gram,e.restr.plural.gram,Was the thief scared of getting caught red-handed?,yes,The_thief,who,stole,from,the_stashes,obviously,was,scared,of,being,caught,red-handed.,
+17,restr,singular,gram,e.restr.singular.gram,Was the thief scared of getting caught red-handed?,yes,The_thief,who,stole,from,the_stash,obviously,was,scared,of,being,caught,red-handed.,
+17,restr,plural,ungram,e.restr.plural.ungram,Was the thief scared of getting caught red-handed?,yes,The_thief,who,stole,from,the_stashes,obviously,were,scared,of,being,caught,red-handed.,
+17,restr,singular,ungram,e.restr.singular.ungram,Was the thief scared of getting caught red-handed?,yes,The_thief,who,stole,from,the_stash,obviously,were,scared,of,being,caught,red-handed.,
+18,appos,plural,gram,e.appos.plural.gram,Was the author pleased with the ending?,no,"The_author,",who,read,about,"the_books,",apparently,was,disappointed,with,the,surprise,ending.,
+18,appos,singular,gram,e.appos.singular.gram,Was the author pleased with the ending?,no,"The_author,",who,read,about,"the_book,",apparently,was,disappointed,with,the,surprise,ending.,
+18,appos,plural,ungram,e.appos.plural.ungram,Was the author pleased with the ending?,no,"The_author,",who,read,about,"the_books,",apparently,were,disappointed,with,the,surprise,ending.,
+18,appos,singular,ungram,e.appos.singular.ungram,Was the author pleased with the ending?,no,"The_author,",who,read,about,"the_book,",apparently,were,disappointed,with,the,surprise,ending.,
+18,restr,plural,gram,e.restr.plural.gram,Was the author pleased with the ending?,no,The_author,who,read,about,the_books,apparently,was,disappointed,with,the,surprise,ending.,
+18,restr,singular,gram,e.restr.singular.gram,Was the author pleased with the ending?,no,The_author,who,read,about,the_book,apparently,was,disappointed,with,the,surprise,ending.,
+18,restr,plural,ungram,e.restr.plural.ungram,Was the author pleased with the ending?,no,The_author,who,read,about,the_books,apparently,were,disappointed,with,the,surprise,ending.,
+18,restr,singular,ungram,e.restr.singular.ungram,Was the author pleased with the ending?,no,The_author,who,read,about,the_book,apparently,were,disappointed,with,the,surprise,ending.,
+19,appos,plural,gram,e.appos.plural.gram,Did the terrorists surround the soldier?,no,"The_solider,",who,fought,against,"the_terrorists,",likely,was,surrounded,by,a,team,of,insurgents.
+19,appos,singular,gram,e.appos.singular.gram,Did the terrorist surround the soldier?,no,"The_solider,",who,fought,against,"the_terrorist,",likely,was,surrounded,by,a,team,of,insurgents.
+19,appos,plural,ungram,e.appos.plural.ungram,Did the terrorists surround the soldier?,no,"The_solider,",who,fought,against,"the_terrorists,",likely,were,surrounded,by,a,team,of,insurgents.
+19,appos,singular,ungram,e.appos.singular.ungram,Did the terrorist surround the soldier?,no,"The_solider,",who,fought,against,"the_terrorist,",likely,were,surrounded,by,a,team,of,insurgents.
+19,restr,plural,gram,e.restr.plural.gram,Did the terrorists surround the soldier?,no,The_solider,who,fought,against,the_terrorists,likely,was,surrounded,by,a,team,of,insurgents.
+19,restr,singular,gram,e.restr.singular.gram,Did the terrorist surround the soldier?,no,The_solider,who,fought,against,the_terrorist,likely,was,surrounded,by,a,team,of,insurgents.
+19,restr,plural,ungram,e.restr.plural.ungram,Did the terrorists surround the soldier?,no,The_solider,who,fought,against,the_terrorists,likely,were,surrounded,by,a,team,of,insurgents.
+19,restr,singular,ungram,e.restr.singular.ungram,Did the terrorist surround the soldier?,no,The_solider,who,fought,against,the_terrorist,likely,were,surrounded,by,a,team,of,insurgents.
+20,appos,plural,gram,e.appos.plural.gram,Was it the officer who was pulled over?,no,"The_millionaire,",who,drove,past,"the_cars,",allegedly,was,pulled,over,for,drunk,driving.,
+20,appos,singular,gram,e.appos.singular.gram,Was it the officer who was pulled over?,no,"The_millionaire,",who,drove,past,"the_cars,",allegedly,was,pulled,over,for,drunk,driving.,
+20,appos,plural,ungram,e.appos.plural.ungram,Was it the officer who was pulled over?,no,"The_millionaire,",who,drove,past,"the_cars,",allegedly,were,pulled,over,for,drunk,driving.,
+20,appos,singular,ungram,e.appos.singular.ungram,Was it the officer who was pulled over?,no,"The_millionaire,",who,drove,past,"the_cars,",allegedly,were,pulled,over,for,drunk,driving.,
+20,restr,plural,gram,e.restr.plural.gram,Was it the officer who was pulled over?,no,The_millionaire,who,drove,past,the_cars,allegedly,was,pulled,over,for,drunk,driving.,
+20,restr,singular,gram,e.restr.singular.gram,Was it the officer who was pulled over?,no,The_millionaire,who,drove,past,the_car,allegedly,was,pulled,over,for,drunk,driving.,
+20,restr,plural,ungram,e.restr.plural.ungram,Was it the officer who was pulled over?,no,The_millionaire,who,drove,past,the_cars,allegedly,were,pulled,over,for,drunk,driving.,
+20,restr,singular,ungram,e.restr.singular.ungram,Was it the officer who was pulled over?,no,The_millionaire,who,drove,past,the_car,allegedly,were,pulled,over,for,drunk,driving.,
+21,appos,plural,gram,e.appos.plural.gram,Was the librarian surprised by the conclusion?,yes,"The_librarian,",who,read,about,"the_books,",certainly,was,surprised,by,the,abrupt,conclusion.,
+21,appos,singular,gram,e.appos.singular.gram,Was the librarian surprised by the conclusion?,yes,"The_librarian,",who,read,about,"the_book,",certainly,was,surprised,by,the,abrupt,conclusion.,
+21,appos,plural,ungram,e.appos.plural.ungram,Was the librarian surprised by the conclusion?,yes,"The_librarian,",who,read,about,"the_books,",certainly,were,surprised,by,the,abrupt,conclusion.,
+21,appos,singular,ungram,e.appos.singular.ungram,Was the librarian surprised by the conclusion?,yes,"The_librarian,",who,read,about,"the_book,",certainly,were,surprised,by,the,abrupt,conclusion.,
+21,restr,plural,gram,e.restr.plural.gram,Was the librarian surprised by the conclusion?,yes,The_librarian,who,read,about,the_books,certainly,was,surprised,by,the,abrupt,conclusion.,
+21,restr,singular,gram,e.restr.singular.gram,Was the librarian surprised by the conclusion?,yes,The_librarian,who,read,about,the_book,certainly,was,surprised,by,the,abrupt,conclusion.,
+21,restr,plural,ungram,e.restr.plural.ungram,Was the librarian surprised by the conclusion?,yes,The_librarian,who,read,about,the_books,certainly,were,surprised,by,the,abrupt,conclusion.,
+21,restr,singular,ungram,e.restr.singular.ungram,Was the librarian surprised by the conclusion?,yes,The_librarian,who,read,about,the_book,certainly,were,surprised,by,the,abrupt,conclusion.,
+22,appos,plural,gram,e.appos.plural.gram,Was the chef unhappy about the quality of the ingredients?,yes,"The_chef,",who,prepared,for,"the_meals,",evidently,was,unhappy,about,the,quality,of,the_ingredients.
+22,appos,singular,gram,e.appos.singular.gram,Was the chef unhappy about the quality of the ingredients?,yes,"The_chef,",who,prepared,for,"the_meal,",evidently,was,unhappy,about,the,quality,of,the_ingredients.
+22,appos,plural,ungram,e.appos.plural.ungram,Was the chef unhappy about the quality of the ingredients?,yes,"The_chef,",who,prepared,for,"the_meals,",evidently,were,unhappy,about,the,quality,of,the_ingredients.
+22,appos,singular,ungram,e.appos.singular.ungram,Was the chef unhappy about the quality of the ingredients?,yes,"The_chef,",who,prepared,for,"the_meal,",evidently,were,unhappy,about,the,quality,of,the_ingredients.
+22,restr,plural,gram,e.restr.plural.gram,Was the chef unhappy about the quality of the ingredients?,yes,The_chef,who,prepared,for,the_meals,evidently,was,unhappy,about,the,quality,of,the_ingredients.
+22,restr,singular,gram,e.restr.singular.gram,Was the chef unhappy about the quality of the ingredients?,yes,The_chef,who,prepared,for,the_meal,evidently,was,unhappy,about,the,quality,of,the_ingredients.
+22,restr,plural,ungram,e.restr.plural.ungram,Was the chef unhappy about the quality of the ingredients?,yes,The_chef,who,prepared,for,the_meals,evidently,were,unhappy,about,the,quality,of,the_ingredients.
+22,restr,singular,ungram,e.restr.singular.ungram,Was the chef unhappy about the quality of the ingredients?,yes,The_chef,who,prepared,for,the_meal,evidently,were,unhappy,about,the,quality,of,the_ingredients.
+23,appos,plural,gram,e.appos.plural.gram,Was the gardener unable to buy more plants?,yes,"The_gardener,",who,pruned,around,"the_hedges,",financially,was,unable,to,buy,more,plants.,
+23,appos,singular,gram,e.appos.singular.gram,Was the gardener unable to buy more plants?,yes,"The_gardener,",who,pruned,around,"the_hedge,",financially,was,unable,to,buy,more,plants.,
+23,appos,plural,ungram,e.appos.plural.ungram,Was the gardener unable to buy more plants?,yes,"The_gardener,",who,pruned,around,"the_hedges,",financially,were,unable,to,buy,more,plants.,
+23,appos,singular,ungram,e.appos.singular.ungram,Was the gardener unable to buy more plants?,yes,"The_gardener,",who,pruned,around,"the_hedge,",financially,were,unable,to,buy,more,plants.,
+23,restr,plural,gram,e.restr.plural.gram,Was the gardener unable to buy more plants?,yes,The_gardener,who,pruned,around,the_hedges,financially,was,unable,to,buy,more,plants.,
+23,restr,singular,gram,e.restr.singular.gram,Was the gardener unable to buy more plants?,yes,The_gardener,who,pruned,around,the_hedge,financially,was,unable,to,buy,more,plants.,
+23,restr,plural,ungram,e.restr.plural.ungram,Was the gardener unable to buy more plants?,yes,The_gardener,who,pruned,around,the_hedges,financially,were,unable,to,buy,more,plants.,
+23,restr,singular,ungram,e.restr.singular.ungram,Was the gardener unable to buy more plants?,yes,The_gardener,who,pruned,around,the_hedge,financially,were,unable,to,buy,more,plants.,
+24,appos,plural,gram,e.appos.plural.gram,Did the referees kick the athlete?,no,"The_athlete,",who,kicked,near,"the_referees,",obviously,was,disappointed,about,the,bad,call.,
+24,appos,singular,gram,e.appos.singular.gram,Did the referee kick the athlete?,no,"The_athlete,",who,kicked,near,"the_referee,",obviously,was,disappointed,about,the,bad,call.,
+24,appos,plural,ungram,e.appos.plural.ungram,Did the referees kick the athlete?,no,"The_athlete,",who,kicked,near,"the_referees,",obviously,were,disappointed,about,the,bad,call.,
+24,appos,singular,ungram,e.appos.singular.ungram,Did the referee kick the athlete?,no,"The_athlete,",who,kicked,near,"the_referee,",obviously,were,disappointed,about,the,bad,call.,
+24,restr,plural,gram,e.restr.plural.gram,Did the referees kick the athlete?,no,The_athlete,who,kicked,near,the_referees,obviously,was,disappointed,about,the,bad,call.,
+24,restr,singular,gram,e.restr.singular.gram,Did the referee kick the athlete?,no,The_athlete,who,kicked,near,the_referee,obviously,was,disappointed,about,the,bad,call.,
+24,restr,plural,ungram,e.restr.plural.ungram,Did the referees kick the athlete?,no,The_athlete,who,kicked,near,the_referees,obviously,were,disappointed,about,the,bad,call.,
+24,restr,singular,ungram,e.restr.singular.ungram,Did the referee kick the athlete?,no,The_athlete,who,kicked,near,the_referee,obviously,were,disappointed,about,the,bad,call.,
+25,appos,plural,gram,e.appos.plural.gram,Was the artist isolated from the society?,yes,"The_artist,",who,painted,in,"the_gardens,",apparently,was,isolated,from,society,for,a_long_time.,
+25,appos,singular,gram,e.appos.singular.gram,Was the artist isolated from the society?,yes,"The_artist,",who,painted,in,"the_garden,",apparently,was,isolated,from,society,for,a_long_time.,
+25,appos,plural,ungram,e.appos.plural.ungram,Was the artist isolated from the society?,yes,"The_artist,",who,painted,in,"the_gardens,",apparently,were,isolated,from,society,for,a_long_time.,
+25,appos,singular,ungram,e.appos.singular.ungram,Was the artist isolated from the society?,yes,"The_artist,",who,painted,in,"the_garden,",apparently,were,isolated,from,society,for,a_long_time.,
+25,restr,plural,gram,e.restr.plural.gram,Was the artist isolated from the society?,yes,The_artist,who,painted,in,the_gardens,apparently,was,isolated,from,society,for,a_long_time.,
+25,restr,singular,gram,e.restr.singular.gram,Was the artist isolated from the society?,yes,The_artist,who,painted,in,the_garden,apparently,was,isolated,from,society,for,a_long_time.,
+25,restr,plural,ungram,e.restr.plural.ungram,Was the artist isolated from the society?,yes,The_artist,who,painted,in,the_gardens,apparently,were,isolated,from,society,for,a_long_time.,
+25,restr,singular,ungram,e.restr.singular.ungram,Was the artist isolated from the society?,yes,The_artist,who,painted,in,the_garden,apparently,were,isolated,from,society,for,a_long_time.,
+26,appos,plural,gram,e.appos.plural.gram,Did the students call the teacher?,no,"The_teacher,",who,called,for,"the_students,",obviously,was,upset,about,the,low,grades.,
+26,appos,singular,gram,e.appos.singular.gram,Did the student call the teacher?,no,"The_teacher,",who,called,for,"the_student,",obviously,was,upset,about,the,low,grades.,
+26,appos,plural,ungram,e.appos.plural.ungram,Did the students call the teacher?,no,"The_teacher,",who,called,for,"the_students,",obviously,were,upset,about,the,low,grades.,
+26,appos,singular,ungram,e.appos.singular.ungram,Did the student call the teacher?,no,"The_teacher,",who,called,for,"the_student,",obviously,were,upset,about,the,low,grades.,
+26,restr,plural,gram,e.restr.plural.gram,Did the students call the teacher?,no,The_teacher,who,called,for,the_students,obviously,was,upset,about,the,low,grades.,
+26,restr,singular,gram,e.restr.singular.gram,Did the student call the teacher?,no,The_teacher,who,called,for,the_student,obviously,was,upset,about,the,low,grades.,
+26,restr,plural,ungram,e.restr.plural.ungram,Did the students call the teacher?,no,The_teacher,who,called,for,the_students,obviously,were,upset,about,the,low,grades.,
+26,restr,singular,ungram,e.restr.singular.ungram,Did the student call the teacher?,no,The_teacher,who,called,for,the_student,obviously,were,upset,about,the,low,grades.,
+27,appos,plural,gram,e.appos.plural.gram,Was the chef becoming quite upset by the smell?,yes,"The_chef,",who,cooked,with,"the_onions,",obviously,was,growing,quite,upset,about,the_smell.,
+27,appos,singular,gram,e.appos.singular.gram,Was the chef becoming quite upset by the smell?,yes,"The_chef,",who,cooked,with,"the_onions,",obviously,was,growing,quite,upset,about,the_smell.,
+27,appos,plural,ungram,e.appos.plural.ungram,Was the chef becoming quite upset by the smell?,yes,"The_chef,",who,cooked,with,"the_onions,",obviously,were,growing,quite,upset,about,the_smell.,
+27,appos,singular,ungram,e.appos.singular.ungram,Was the chef becoming quite upset by the smell?,yes,"The_chef,",who,cooked,with,"the_onions,",obviously,were,growing,quite,upset,about,the_smell.,
+27,restr,plural,gram,e.restr.plural.gram,Was the chef becoming quite upset by the smell?,yes,The_chef,who,cooked,with,the_onions,obviously,was,growing,quite,upset,about,the_smell.,
+27,restr,singular,gram,e.restr.singular.gram,Was the chef becoming quite upset by the smell?,yes,The_chef,who,cooked,with,the_onion,obviously,was,growing,quite,upset,about,the_smell.,
+27,restr,plural,ungram,e.restr.plural.ungram,Was the chef becoming quite upset by the smell?,yes,The_chef,who,cooked,with,the_onions,obviously,were,growing,quite,upset,about,the_smell.,
+27,restr,singular,ungram,e.restr.singular.ungram,Was the chef becoming quite upset by the smell?,yes,The_chef,who,cooked,with,the_onion,obviously,were,growing,quite,upset,about,the_smell.,
+28,appos,plural,gram,e.appos.plural.gram,Was the host unimpressed with the decoration?,no,"The_host,",who,sat,near,"the_guests,",certainly,was,impressed,with,all,of,the_colorful_decoration.,
+28,appos,singular,gram,e.appos.singular.gram,Was the host unimpressed with the decoration?,no,"The_host,",who,sat,near,"the_guest,",certainly,was,impressed,with,all,of,the_colorful_decoration.,
+28,appos,plural,ungram,e.appos.plural.ungram,Was the host unimpressed with the decoration?,no,"The_host,",who,sat,near,"the_guests,",certainly,were,impressed,with,all,of,the_colorful_decoration.,
+28,appos,singular,ungram,e.appos.singular.ungram,Was the host unimpressed with the decoration?,no,"The_host,",who,sat,near,"the_guest,",certainly,were,impressed,with,all,of,the_colorful_decoration.,
+28,restr,plural,gram,e.restr.plural.gram,Was the host unimpressed with the decoration?,no,The_host,who,sat,near,the_guests,certainly,was,impressed,with,all,of,the_colorful_decoration.,
+28,restr,singular,gram,e.restr.singular.gram,Was the host unimpressed with the decoration?,no,The_host,who,sat,near,the_guest,certainly,was,impressed,with,all,of,the_colorful_decoration.,
+28,restr,plural,ungram,e.restr.plural.ungram,Was the host unimpressed with the decoration?,no,The_host,who,sat,near,the_guests,certainly,were,impressed,with,all,of,the_colorful_decoration.,
+28,restr,singular,ungram,e.restr.singular.ungram,Was the host unimpressed with the decoration?,no,The_host,who,sat,near,the_guest,certainly,were,impressed,with,all,of,the_colorful_decoration.,
+29,appos,plural,gram,e.appos.plural.gram,Was the stewardess pleased with the flights?,yes,"The_stewardess,",who,sat,behind,"the_passengers,",certainly,was,very,pleased,with,the,long,flights.
+29,appos,singular,gram,e.appos.singular.gram,Was the stewardess pleased with the flights?,yes,"The_stewardess,",who,sat,behind,"the_passenger,",certainly,was,very,pleased,with,the,long,flights.
+29,appos,plural,ungram,e.appos.plural.ungram,Was the stewardess pleased with the flights?,yes,"The_stewardess,",who,sat,behind,"the_passengers,",certainly,were,very,pleased,with,the,long,flights.
+29,appos,singular,ungram,e.appos.singular.ungram,Was the stewardess pleased with the flights?,yes,"The_stewardess,",who,sat,behind,"the_passenger,",certainly,were,very,pleased,with,the,long,flights.
+29,restr,plural,gram,e.restr.plural.gram,Was the stewardess pleased with the flights?,yes,The_stewardess,who,sat,behind,the_passengers,certainly,was,very,pleased,with,the,long,flights.
+29,restr,singular,gram,e.restr.singular.gram,Was the stewardess pleased with the flights?,yes,The_stewardess,who,sat,behind,the_passenger,certainly,was,very,pleased,with,the,long,flights.
+29,restr,plural,ungram,e.restr.plural.ungram,Was the stewardess pleased with the flights?,yes,The_stewardess,who,sat,behind,the_passengers,certainly,were,very,pleased,with,the,long,flights.
+29,restr,singular,ungram,e.restr.singular.ungram,Was the stewardess pleased with the flights?,yes,The_stewardess,who,sat,behind,the_passenger,certainly,were,very,pleased,with,the,long,flights.
+30,appos,plural,gram,e.appos.plural.gram,Did the driver build the bridges?,no,"The_driver,",who,crossed,over,"the_bridges,",luckily,was,very,eager,to,return,home.,
+30,appos,singular,gram,e.appos.singular.gram,Did the driver build the bridge?,no,"The_driver,",who,crossed,over,"the_bridge,",luckily,was,very,eager,to,return,home.,
+30,appos,plural,ungram,e.appos.plural.ungram,Did the driver build the bridges?,no,"The_driver,",who,crossed,over,"the_bridges,",luckily,were,very,eager,to,return,home.,
+30,appos,singular,ungram,e.appos.singular.ungram,Did the driver build the bridge?,no,"The_driver,",who,crossed,over,"the_bridge,",luckily,were,very,eager,to,return,home.,
+30,restr,plural,gram,e.restr.plural.gram,Did the driver build the bridges?,no,The_driver,who,crossed,over,the_bridges,luckily,was,very,eager,to,return,home.,
+30,restr,singular,gram,e.restr.singular.gram,Did the driver build the bridge?,no,The_driver,who,crossed,over,the_bridge,luckily,was,very,eager,to,return,home.,
+30,restr,plural,ungram,e.restr.plural.ungram,Did the driver build the bridges?,no,The_driver,who,crossed,over,the_bridges,luckily,were,very,eager,to,return,home.,
+30,restr,singular,ungram,e.restr.singular.ungram,Did the driver build the bridge?,no,The_driver,who,crossed,over,the_bridge,luckily,were,very,eager,to,return,home.,
+31,appos,plural,gram,e.appos.plural.gram,Was the professor mistaken about the final question?,yes,"The_professor,",who,wrote,on,"the_tests,",certainly,was,mistaken,about,the,final,question.,
+31,appos,singular,gram,e.appos.singular.gram,Was the professor mistaken about the final question?,yes,"The_professor,",who,wrote,on,"the_test,",certainly,was,mistaken,about,the,final,question.,
+31,appos,plural,ungram,e.appos.plural.ungram,Was the professor mistaken about the final question?,yes,"The_professor,",who,wrote,on,"the_tests,",certainly,were,mistaken,about,the,final,question.,
+31,appos,singular,ungram,e.appos.singular.ungram,Was the professor mistaken about the final question?,yes,"The_professor,",who,wrote,on,"the_test,",certainly,were,mistaken,about,the,final,question.,
+31,restr,plural,gram,e.restr.plural.gram,Was the professor mistaken about the final question?,yes,The_professor,who,wrote,on,the_tests,certainly,was,mistaken,about,the,final,question.,
+31,restr,singular,gram,e.restr.singular.gram,Was the professor mistaken about the final question?,yes,The_professor,who,wrote,on,the_test,certainly,was,mistaken,about,the,final,question.,
+31,restr,plural,ungram,e.restr.plural.ungram,Was the professor mistaken about the final question?,yes,The_professor,who,wrote,on,the_tests,certainly,were,mistaken,about,the,final,question.,
+31,restr,singular,ungram,e.restr.singular.ungram,Was the professor mistaken about the final question?,yes,The_professor,who,wrote,on,the_test,certainly,were,mistaken,about,the,final,question.,
+32,appos,plural,gram,e.appos.plural.gram,Was the journalist happy about the criticism?,no,"The_journalist,",who,wrote,about,"the_articles,",obviously,was,unhappy,about,all,the,criticism.,
+32,appos,singular,gram,e.appos.singular.gram,Was the journalist happy about the criticism?,no,"The_journalist,",who,wrote,about,"the_article,",obviously,was,unhappy,about,all,the,criticism.,
+32,appos,plural,ungram,e.appos.plural.ungram,Was the journalist happy about the criticism?,no,"The_journalist,",who,wrote,about,"the_articles,",obviously,were,unhappy,about,all,the,criticism.,
+32,appos,singular,ungram,e.appos.singular.ungram,Was the journalist happy about the criticism?,no,"The_journalist,",who,wrote,about,"the_article,",obviously,were,unhappy,about,all,the,criticism.,
+32,restr,plural,gram,e.restr.plural.gram,Was the journalist happy about the criticism?,no,The_journalist,who,wrote,about,the_articles,obviously,was,unhappy,about,all,the,criticism.,
+32,restr,singular,gram,e.restr.singular.gram,Was the journalist happy about the criticism?,no,The_journalist,who,wrote,about,the_article,obviously,was,unhappy,about,all,the,criticism.,
+32,restr,plural,ungram,e.restr.plural.ungram,Was the journalist happy about the criticism?,no,The_journalist,who,wrote,about,the_articles,obviously,were,unhappy,about,all,the,criticism.,
+32,restr,singular,ungram,e.restr.singular.ungram,Was the journalist happy about the criticism?,no,The_journalist,who,wrote,about,the_article,obviously,were,unhappy,about,all,the,criticism.,
+33,appos,plural,gram,e.appos.plural.gram,Was the robber hiding from the police?,yes,"The_robber,",who,broke,into,"the_safes,",apparently,was,hiding,from,the_police,on,the_other_side,of_town.
+33,appos,singular,gram,e.appos.singular.gram,Was the robber hiding from the police?,yes,"The_robber,",who,broke,into,"the_safe,",apparently,was,hiding,from,the_police,on,the_other_side,of_town.
+33,appos,plural,ungram,e.appos.plural.ungram,Was the robber hiding from the police?,yes,"The_robber,",who,broke,into,"the_safes,",apparently,were,hiding,from,the_police,on,the_other_side,of_town.
+33,appos,singular,ungram,e.appos.singular.ungram,Was the robber hiding from the police?,yes,"The_robber,",who,broke,into,"the_safe,",apparently,were,hiding,from,the_police,on,the_other_side,of_town.
+33,restr,plural,gram,e.restr.plural.gram,Was the robber hiding from the police?,yes,The_robber,who,broke,into,the_safes,apparently,was,hiding,from,the_police,on,the_other_side,of_town.
+33,restr,singular,gram,e.restr.singular.gram,Was the robber hiding from the police?,yes,The_robber,who,broke,into,the_safe,apparently,was,hiding,from,the_police,on,the_other_side,of_town.
+33,restr,plural,ungram,e.restr.plural.ungram,Was the robber hiding from the police?,yes,The_robber,who,broke,into,the_safes,apparently,were,hiding,from,the_police,on,the_other_side,of_town.
+33,restr,singular,ungram,e.restr.singular.ungram,Was the robber hiding from the police?,yes,The_robber,who,broke,into,the_safe,apparently,were,hiding,from,the_police,on,the_other_side,of_town.
+34,appos,plural,gram,e.appos.plural.gram,Was it the cat that was lonely the other night?,no,"The_dog,",which,chewed,on,"the_bones,",probably,was,pretty,lonely,the,other,night.,
+34,appos,singular,gram,e.appos.singular.gram,Was it the cat that was lonely the other night?,no,"The_dog,",which,chewed,on,"the_bone,",probably,was,pretty,lonely,the,other,night.,
+34,appos,plural,ungram,e.appos.plural.ungram,Was it the cat that was lonely the other night?,no,"The_dog,",which,chewed,on,"the_bones,",probably,were,pretty,lonely,the,other,night.,
+34,appos,singular,ungram,e.appos.singular.ungram,Was it the cat that was lonely the other night?,no,"The_dog,",which,chewed,on,"the_bone,",probably,were,pretty,lonely,the,other,night.,
+34,restr,plural,gram,e.restr.plural.gram,Was it the cat that was lonely the other night?,no,The_dog,which,chewed,on,the_bones,probably,was,pretty,lonely,the,other,night.,
+34,restr,singular,gram,e.restr.singular.gram,Was it the cat that was lonely the other night?,no,The_dog,which,chewed,on,the_bone,probably,was,pretty,lonely,the,other,night.,
+34,restr,plural,ungram,e.restr.plural.ungram,Was it the cat that was lonely the other night?,no,The_dog,which,chewed,on,the_bones,probably,were,pretty,lonely,the,other,night.,
+34,restr,singular,ungram,e.restr.singular.ungram,Was it the cat that was lonely the other night?,no,The_dog,which,chewed,on,the_bone,probably,were,pretty,lonely,the,other,night.,
+35,appos,plural,gram,e.appos.plural.gram,Was the coach prepared for the championship game?,yes,"The_coach,",who,trained,with,"the_athletes,",definitely,was,prepared,for,the,championship,game.,
+35,appos,singular,gram,e.appos.singular.gram,Was the coach prepared for the championship game?,yes,"The_coach,",who,trained,with,"the_athlete,",definitely,was,prepared,for,the,championship,game.,
+35,appos,plural,ungram,e.appos.plural.ungram,Was the coach prepared for the championship game?,yes,"The_coach,",who,trained,with,"the_athletes,",definitely,were,prepared,for,the,championship,game.,
+35,appos,singular,ungram,e.appos.singular.ungram,Was the coach prepared for the championship game?,yes,"The_coach,",who,trained,with,"the_athlete,",definitely,were,prepared,for,the,championship,game.,
+35,restr,plural,gram,e.restr.plural.gram,Was the coach prepared for the championship game?,yes,The_coach,who,trained,with,the_athletes,definitely,was,prepared,for,the,championship,game.,
+35,restr,singular,gram,e.restr.singular.gram,Was the coach prepared for the championship game?,yes,The_coach,who,trained,with,the_athlete,definitely,was,prepared,for,the,championship,game.,
+35,restr,plural,ungram,e.restr.plural.ungram,Was the coach prepared for the championship game?,yes,The_coach,who,trained,with,the_athletes,definitely,were,prepared,for,the,championship,game.,
+35,restr,singular,ungram,e.restr.singular.ungram,Was the coach prepared for the championship game?,yes,The_coach,who,trained,with,the_athlete,definitely,were,prepared,for,the,championship,game.,
+36,appos,plural,gram,e.appos.plural.gram,Did the child feel sad because of the sunny weather?,no,"The_child,",who,walked,by,"the_puppies,",clearly,was,happy,to,be,outside,in,the_sunny_weather.
+36,appos,singular,gram,e.appos.singular.gram,Did the child feel sad because of the sunny weather?,no,"The_child,",who,walked,by,"the_puppy,",clearly,was,happy,to,be,outside,in,the_sunny_weather.
+36,appos,plural,ungram,e.appos.plural.ungram,Did the child feel sad because of the sunny weather?,no,"The_child,",who,walked,by,"the_puppies,",clearly,were,happy,to,be,outside,in,the_sunny_weather.
+36,appos,singular,ungram,e.appos.singular.ungram,Did the child feel sad because of the sunny weather?,no,"The_child,",who,walked,by,"the_puppy,",clearly,were,happy,to,be,outside,in,the_sunny_weather.
+36,restr,plural,gram,e.restr.plural.gram,Did the child feel sad because of the sunny weather?,no,The_child,who,walked,by,the_puppies,clearly,was,happy,to,be,outside,in,the_sunny_weather.
+36,restr,singular,gram,e.restr.singular.gram,Did the child feel sad because of the sunny weather?,no,The_child,who,walked,by,the_puppy,clearly,was,happy,to,be,outside,in,the_sunny_weather.
+36,restr,plural,ungram,e.restr.plural.ungram,Did the child feel sad because of the sunny weather?,no,The_child,who,walked,by,the_puppies,clearly,were,happy,to,be,outside,in,the_sunny_weather.
+36,restr,singular,ungram,e.restr.singular.ungram,Did the child feel sad because of the sunny weather?,no,The_child,who,walked,by,the_puppy,clearly,were,happy,to,be,outside,in,the_sunny_weather.
+37,appos,plural,gram,e.appos.plural.gram,Was the nurse nervous about the situation?,yes,"The_nurse,",who,called,for,"the_doctors,",clearly,was,nervous,about,the,stressful,situation.,
+37,appos,singular,gram,e.appos.singular.gram,Was the nurse nervous about the situation?,yes,"The_nurse,",who,called,for,"the_doctor,",clearly,was,nervous,about,the,stressful,situation.,
+37,appos,plural,ungram,e.appos.plural.ungram,Was the nurse nervous about the situation?,yes,"The_nurse,",who,called,for,"the_doctors,",clearly,were,nervous,about,the,stressful,situation.,
+37,appos,singular,ungram,e.appos.singular.ungram,Was the nurse nervous about the situation?,yes,"The_nurse,",who,called,for,"the_doctor,",clearly,were,nervous,about,the,stressful,situation.,
+37,restr,plural,gram,e.restr.plural.gram,Was the nurse nervous about the situation?,yes,The_nurse,who,called,for,the_doctors,clearly,was,nervous,about,the,stressful,situation.,
+37,restr,singular,gram,e.restr.singular.gram,Was the nurse nervous about the situation?,yes,The_nurse,who,called,for,the_doctor,clearly,was,nervous,about,the,stressful,situation.,
+37,restr,plural,ungram,e.restr.plural.ungram,Was the nurse nervous about the situation?,yes,The_nurse,who,called,for,the_doctors,clearly,were,nervous,about,the,stressful,situation.,
+37,restr,singular,ungram,e.restr.singular.ungram,Was the nurse nervous about the situation?,yes,The_nurse,who,called,for,the_doctor,clearly,were,nervous,about,the,stressful,situation.,
+38,appos,plural,gram,e.appos.plural.gram,Was the boy scared about the loud noises?,yes,"The_boy,",who,walked,by,"the_dogs,",suddenly,was,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,appos,singular,gram,e.appos.singular.gram,Was the boy scared about the loud noises?,yes,"The_boy,",who,walked,by,"the_dog,",suddenly,was,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,appos,plural,ungram,e.appos.plural.ungram,Was the boy scared about the loud noises?,yes,"The_boy,",who,walked,by,"the_dogs,",suddenly,were,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,appos,singular,ungram,e.appos.singular.ungram,Was the boy scared about the loud noises?,yes,"The_boy,",who,walked,by,"the_dog,",suddenly,were,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,restr,plural,gram,e.restr.plural.gram,Was the boy scared about the loud noises?,yes,The_boy,who,walked,by,the_dogs,suddenly,was,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,restr,singular,gram,e.restr.singular.gram,Was the boy scared about the loud noises?,yes,The_boy,who,walked,by,the_dog,suddenly,was,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,restr,plural,ungram,e.restr.plural.ungram,Was the boy scared about the loud noises?,yes,The_boy,who,walked,by,the_dogs,suddenly,were,scared,about,the,loud_noises,coming_from,a_nearby_building.
+38,restr,singular,ungram,e.restr.singular.ungram,Was the boy scared about the loud noises?,yes,The_boy,who,walked,by,the_dog,suddenly,were,scared,about,the,loud_noises,coming_from,a_nearby_building.
+39,appos,plural,gram,e.appos.plural.gram,Was the athlete happy about losing the championship?,no,"The_athlete,",who,ran,in,"the_races,",unsurprisingly,was,upset,about,losing,the,championship.,
+39,appos,singular,gram,e.appos.singular.gram,Was the athlete happy about losing the championship?,no,"The_athlete,",who,ran,in,"the_race,",unsurprisingly,was,upset,about,losing,the,championship.,
+39,appos,plural,ungram,e.appos.plural.ungram,Was the athlete happy about losing the championship?,no,"The_athlete,",who,ran,in,"the_races,",unsurprisingly,were,upset,about,losing,the,championship.,
+39,appos,singular,ungram,e.appos.singular.ungram,Was the athlete happy about losing the championship?,no,"The_athlete,",who,ran,in,"the_race,",unsurprisingly,were,upset,about,losing,the,championship.,
+39,restr,plural,gram,e.restr.plural.gram,Was the athlete happy about losing the championship?,no,The_athlete,who,ran,in,the_races,unsurprisingly,was,upset,about,losing,the,championship.,
+39,restr,singular,gram,e.restr.singular.gram,Was the athlete happy about losing the championship?,no,The_athlete,who,ran,in,the_race,unsurprisingly,was,upset,about,losing,the,championship.,
+39,restr,plural,ungram,e.restr.plural.ungram,Was the athlete happy about losing the championship?,no,The_athlete,who,ran,in,the_races,unsurprisingly,were,upset,about,losing,the,championship.,
+39,restr,singular,ungram,e.restr.singular.ungram,Was the athlete happy about losing the championship?,no,The_athlete,who,ran,in,the_race,unsurprisingly,were,upset,about,losing,the,championship.,
+40,appos,plural,gram,e.appos.plural.gram,Was it the sailor who was scared about the storm?,no,"The_fighter_pilot,",who,flew,towards,"the_planes,",definitely,was,scared,about,the,approaching,storm.,
+40,appos,singular,gram,e.appos.singular.gram,Was it the sailor who was scared about the storm?,no,"The_fighter_pilot,",who,flew,towards,"the_plane,",definitely,was,scared,about,the,approaching,storm.,
+40,appos,plural,ungram,e.appos.plural.ungram,Was it the sailor who was scared about the storm?,no,"The_fighter_pilot,",who,flew,towards,"the_planes,",definitely,were,scared,about,the,approaching,storm.,
+40,appos,singular,ungram,e.appos.singular.ungram,Was it the sailor who was scared about the storm?,no,"The_fighter_pilot,",who,flew,towards,"the_plane,",definitely,were,scared,about,the,approaching,storm.,
+40,restr,plural,gram,e.restr.plural.gram,Was it the sailor who was scared about the storm?,no,The_fighter_pilot,who,flew,towards,the_planes,definitely,was,scared,about,the,approaching,storm.,
+40,restr,singular,gram,e.restr.singular.gram,Was it the sailor who was scared about the storm?,no,The_fighter_pilot,who,flew,towards,the_plane,definitely,was,scared,about,the,approaching,storm.,
+40,restr,plural,ungram,e.restr.plural.ungram,Was it the sailor who was scared about the storm?,no,The_fighter_pilot,who,flew,towards,the_planes,definitely,were,scared,about,the,approaching,storm.,
+40,restr,singular,ungram,e.restr.singular.ungram,Was it the sailor who was scared about the storm?,no,The_fighter_pilot,who,flew,towards,the_plane,definitely,were,scared,about,the,approaching,storm.,
+41,appos,plural,gram,e.appos.plural.gram,Was the child talented at drawing complex shapes?,yes,"The_child,",who,drew,on,"the_pictures,",apparently,was,rather,talented,at,drawing,complex_shapes.,
+41,appos,singular,gram,e.appos.singular.gram,Was the child talented at drawing complex shapes?,yes,"The_child,",who,drew,on,"the_picture,",apparently,was,rather,talented,at,drawing,complex_shapes.,
+41,appos,plural,ungram,e.appos.plural.ungram,Was the child talented at drawing complex shapes?,yes,"The_child,",who,drew,on,"the_pictures,",apparently,were,rather,talented,at,drawing,complex_shapes.,
+41,appos,singular,ungram,e.appos.singular.ungram,Was the child talented at drawing complex shapes?,yes,"The_child,",who,drew,on,"the_picture,",apparently,were,rather,talented,at,drawing,complex_shapes.,
+41,restr,plural,gram,e.restr.plural.gram,Was the child talented at drawing complex shapes?,yes,The_child,who,drew,on,the_pictures,apparently,was,rather,talented,at,drawing,complex_shapes.,
+41,restr,singular,gram,e.restr.singular.gram,Was the child talented at drawing complex shapes?,yes,The_child,who,drew,on,the_picture,apparently,was,rather,talented,at,drawing,complex_shapes.,
+41,restr,plural,ungram,e.restr.plural.ungram,Was the child talented at drawing complex shapes?,yes,The_child,who,drew,on,the_pictures,apparently,were,rather,talented,at,drawing,complex_shapes.,
+41,restr,singular,ungram,e.restr.singular.ungram,Was the child talented at drawing complex shapes?,yes,The_child,who,drew,on,the_picture,apparently,were,rather,talented,at,drawing,complex_shapes.,
+42,appos,plural,gram,e.appos.plural.gram,Was the researcher disappointed with the reviews?,no,"The_researcher,",who,wrote,about,"the_articles,",clearly,was,quite,happy,with,the,reviews.,
+42,appos,singular,gram,e.appos.singular.gram,Was the researcher disappointed with the reviews?,no,"The_researcher,",who,wrote,about,"the_article,",clearly,was,quite,happy,with,the,reviews.,
+42,appos,plural,ungram,e.appos.plural.ungram,Was the researcher disappointed with the reviews?,no,"The_researcher,",who,wrote,about,"the_articles,",clearly,were,quite,happy,with,the,reviews.,
+42,appos,singular,ungram,e.appos.singular.ungram,Was the researcher disappointed with the reviews?,no,"The_researcher,",who,wrote,about,"the_article,",clearly,were,quite,happy,with,the,reviews.,
+42,restr,plural,gram,e.restr.plural.gram,Was the researcher disappointed with the reviews?,no,The_researcher,who,wrote,about,the_articles,clearly,was,quite,happy,with,the,reviews.,
+42,restr,singular,gram,e.restr.singular.gram,Was the researcher disappointed with the reviews?,no,The_researcher,who,wrote,about,the_article,clearly,was,quite,happy,with,the,reviews.,
+42,restr,plural,ungram,e.restr.plural.ungram,Was the researcher disappointed with the reviews?,no,The_researcher,who,wrote,about,the_articles,clearly,were,quite,happy,with,the,reviews.,
+42,restr,singular,ungram,e.restr.singular.ungram,Was the researcher disappointed with the reviews?,no,The_researcher,who,wrote,about,the_article,clearly,were,quite,happy,with,the,reviews.,
+43,appos,plural,gram,e.appos.plural.gram,Was the child upset about breaking his arm?,yes,"The_child,",who,climbed,on,"the_trees,",naturally,was,upset,about,breaking,his_arm,after,falling.
+43,appos,singular,gram,e.appos.singular.gram,Was the child upset about breaking his arm?,yes,"The_child,",who,climbed,on,"the_tree,",naturally,was,upset,about,breaking,his_arm,after,falling.
+43,appos,plural,ungram,e.appos.plural.ungram,Was the child upset about breaking his arm?,yes,"The_child,",who,climbed,on,"the_trees,",naturally,were,upset,about,breaking,his_arm,after,falling.
+43,appos,singular,ungram,e.appos.singular.ungram,Was the child upset about breaking his arm?,yes,"The_child,",who,climbed,on,"the_tree,",naturally,were,upset,about,breaking,his_arm,after,falling.
+43,restr,plural,gram,e.restr.plural.gram,Was the child upset about breaking his arm?,yes,The_child,who,climbed,on,the_trees,naturally,was,upset,about,breaking,his_arm,after,falling.
+43,restr,singular,gram,e.restr.singular.gram,Was the child upset about breaking his arm?,yes,The_child,who,climbed,on,the_tree,naturally,was,upset,about,breaking,his_arm,after,falling.
+43,restr,plural,ungram,e.restr.plural.ungram,Was the child upset about breaking his arm?,yes,The_child,who,climbed,on,the_trees,naturally,were,upset,about,breaking,his_arm,after,falling.
+43,restr,singular,ungram,e.restr.singular.ungram,Was the child upset about breaking his arm?,yes,The_child,who,climbed,on,the_tree,naturally,were,upset,about,breaking,his_arm,after,falling.
+44,appos,plural,gram,e.appos.plural.gram,Was the actor interested in the lead role?,yes,"The_actor,",who,read,about,"the_scripts,",apparently,was,interested,in,auditioning,for,the_lead_role.,
+44,appos,singular,gram,e.appos.singular.gram,Was the actor interested in the lead role?,yes,"The_actor,",who,read,about,"the_script,",apparently,was,interested,in,auditioning,for,the_lead_role.,
+44,appos,plural,ungram,e.appos.plural.ungram,Was the actor interested in the lead role?,yes,"The_actor,",who,read,about,"the_scripts,",apparently,were,interested,in,auditioning,for,the_lead_role.,
+44,appos,singular,ungram,e.appos.singular.ungram,Was the actor interested in the lead role?,yes,"The_actor,",who,read,about,"the_script,",apparently,were,interested,in,auditioning,for,the_lead_role.,
+44,restr,plural,gram,e.restr.plural.gram,Was the actor interested in the lead role?,yes,The_actor,who,read,about,the_scripts,apparently,was,interested,in,auditioning,for,the_lead_role.,
+44,restr,singular,gram,e.restr.singular.gram,Was the actor interested in the lead role?,yes,The_actor,who,read,about,the_script,apparently,was,interested,in,auditioning,for,the_lead_role.,
+44,restr,plural,ungram,e.restr.plural.ungram,Was the actor interested in the lead role?,yes,The_actor,who,read,about,the_scripts,apparently,were,interested,in,auditioning,for,the_lead_role.,
+44,restr,singular,ungram,e.restr.singular.ungram,Was the actor interested in the lead role?,yes,The_actor,who,read,about,the_script,apparently,were,interested,in,auditioning,for,the_lead_role.,
+45,appos,plural,gram,e.appos.plural.gram,Was it the singer who was the best on the stage?,no,"The_dancer,",who,learned,about,"the_moves,",clearly,was,the,best,on,the,stage.,
+45,appos,singular,gram,e.appos.singular.gram,Was it the singer who was the best on the stage?,no,"The_dancer,",who,learned,about,"the_move,",clearly,was,the,best,on,the,stage.,
+45,appos,plural,ungram,e.appos.plural.ungram,Was it the singer who was the best on the stage?,no,"The_dancer,",who,learned,about,"the_moves,",clearly,were,the,best,on,the,stage.,
+45,appos,singular,ungram,e.appos.singular.ungram,Was it the singer who was the best on the stage?,no,"The_dancer,",who,learned,about,"the_move,",clearly,were,the,best,on,the,stage.,
+45,restr,plural,gram,e.restr.plural.gram,Was it the singer who was the best on the stage?,no,The_dancer,who,learned,about,the_moves,clearly,was,the,best,on,the,stage.,
+45,restr,singular,gram,e.restr.singular.gram,Was it the singer who was the best on the stage?,no,The_dancer,who,learned,about,the_move,clearly,was,the,best,on,the,stage.,
+45,restr,plural,ungram,e.restr.plural.ungram,Was it the singer who was the best on the stage?,no,The_dancer,who,learned,about,the_moves,clearly,were,the,best,on,the,stage.,
+45,restr,singular,ungram,e.restr.singular.ungram,Was it the singer who was the best on the stage?,no,The_dancer,who,learned,about,the_move,clearly,were,the,best,on,the,stage.,
+46,appos,plural,gram,e.appos.plural.gram,Was it the candidates who were nervous about the upcoming debate?,no,"The_reporter,",who,met,with,"the_candidates,",definitely,was,nervous,about,the,upcoming,debate.,
+46,appos,singular,gram,e.appos.singular.gram,Was it the candidate who was nervous about the upcoming debate?,no,"The_reporter,",who,met,with,"the_candidate,",definitely,was,nervous,about,the,upcoming,debate.,
+46,appos,plural,ungram,e.appos.plural.ungram,Was it the candidates who were nervous about the upcoming debate?,no,"The_reporter,",who,met,with,"the_candidates,",definitely,were,nervous,about,the,upcoming,debate.,
+46,appos,singular,ungram,e.appos.singular.ungram,Was it the candidate who was nervous about the upcoming debate?,no,"The_reporter,",who,met,with,"the_candidate,",definitely,were,nervous,about,the,upcoming,debate.,
+46,restr,plural,gram,e.restr.plural.gram,Was it the candidates who were nervous about the upcoming debate?,no,The_reporter,who,met,with,the_candidates,definitely,was,nervous,about,the,upcoming,debate.,
+46,restr,singular,gram,e.restr.singular.gram,Was it the candidate who was nervous about the upcoming debate?,no,The_reporter,who,met,with,the_candidate,definitely,was,nervous,about,the,upcoming,debate.,
+46,restr,plural,ungram,e.restr.plural.ungram,Was it the candidates who were nervous about the upcoming debate?,no,The_reporter,who,met,with,the_candidates,definitely,were,nervous,about,the,upcoming,debate.,
+46,restr,singular,ungram,e.restr.singular.ungram,Was it the candidate who was nervous about the upcoming debate?,no,The_reporter,who,met,with,the_candidate,definitely,were,nervous,about,the,upcoming,debate.,
+47,appos,plural,gram,e.appos.plural.gram,Was the fan displeased with the performance?,yes,"The_fan,",who,met,with,"the_musicians,",certainly,was,displeased,with,the,horrible,performance.,
+47,appos,singular,gram,e.appos.singular.gram,Was the fan displeased with the performance?,yes,"The_fan,",who,met,with,"the_musician,",certainly,was,displeased,with,the,horrible,performance.,
+47,appos,plural,ungram,e.appos.plural.ungram,Was the fan displeased with the performance?,yes,"The_fan,",who,met,with,"the_musicians,",certainly,were,displeased,with,the,horrible,performance.,
+47,appos,singular,ungram,e.appos.singular.ungram,Was the fan displeased with the performance?,yes,"The_fan,",who,met,with,"the_musician,",certainly,were,displeased,with,the,horrible,performance.,
+47,restr,plural,gram,e.restr.plural.gram,Was the fan displeased with the performance?,yes,The_fan,who,met,with,the_musicians,certainly,was,displeased,with,the,horrible,performance.,
+47,restr,singular,gram,e.restr.singular.gram,Was the fan displeased with the performance?,yes,The_fan,who,met,with,the_musician,certainly,was,displeased,with,the,horrible,performance.,
+47,restr,plural,ungram,e.restr.plural.ungram,Was the fan displeased with the performance?,yes,The_fan,who,met,with,the_musicians,certainly,were,displeased,with,the,horrible,performance.,
+47,restr,singular,ungram,e.restr.singular.ungram,Was the fan displeased with the performance?,yes,The_fan,who,met,with,the_musician,certainly,were,displeased,with,the,horrible,performance.,
+48,appos,plural,gram,e.appos.plural.gram,Was it the diplomats who were confused about the political situation?,no,"The_journalist,",who,met,with,"the_diplomats,",undoubtedly,was,confused,about,the,current,political,situation.
+48,appos,singular,gram,e.appos.singular.gram,Was it the diplomat who was confused about the political situation?,no,"The_journalist,",who,met,with,"the_diplomat,",undoubtedly,was,confused,about,the,current,political,situation.
+48,appos,plural,ungram,e.appos.plural.ungram,Was it the diplomats who were confused about the political situation?,no,"The_journalist,",who,met,with,"the_diplomats,",undoubtedly,were,confused,about,the,current,political,situation.
+48,appos,singular,ungram,e.appos.singular.ungram,Was it the diplomat who was confused about the political situation?,no,"The_journalist,",who,met,with,"the_diplomat,",undoubtedly,were,confused,about,the,current,political,situation.
+48,restr,plural,gram,e.restr.plural.gram,Was it the diplomats who were confused about the political situation?,no,The_journalist,who,met,with,the_diplomats,undoubtedly,was,confused,about,the,current,political,situation.
+48,restr,singular,gram,e.restr.singular.gram,Was it the diplomat who was confused about the political situation?,no,The_journalist,who,met,with,the_diplomat,undoubtedly,was,confused,about,the,current,political,situation.
+48,restr,plural,ungram,e.restr.plural.ungram,Was it the diplomats who were confused about the political situation?,no,The_journalist,who,met,with,the_diplomats,undoubtedly,were,confused,about,the,current,political,situation.
+48,restr,singular,ungram,e.restr.singular.ungram,Was it the diplomat who was confused about the political situation?,no,The_journalist,who,met,with,the_diplomat,undoubtedly,were,confused,about,the,current,political,situation.
