@@ -2,7 +2,7 @@
 
 Material, code, and results for the paper:
 
-**Sanghee J. Kim\*** and **Forrest Davis\***. *Discourse sensitivity in attraction effects: the interplay between language model size and training data.* To appear in the *Proceedings of the Society for Computation in Linguistics (SCiL) 2025*.
+**Sanghee J. Kim\*** and **Forrest Davis\***. *Discourse sensitivity in attraction effects: the interplay between language model size and training data, [*Society for Computation in Linguistics 8*(1): 14.](https://doi.org/10.7275/scil.3156)
 
 ---
 
